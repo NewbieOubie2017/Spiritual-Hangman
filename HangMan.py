@@ -393,8 +393,6 @@ def main():
                 word = generate_word()
                 if counter >= 0:
                   wordsSolved += 1 
-                print("c " + str(counter))
-                print("w " + str(wordsSolved))
                 counter +=1
                 letterList = []
                 letter = ""
