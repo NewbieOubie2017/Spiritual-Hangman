@@ -3,7 +3,7 @@ Be kind to yourself and others.... please.
 
 First step is to stop thinking, talking about and looking at violent images.  
 Violent films are mislabeded 'action' films.
-Stop supporting them by not watching about them and not talking about them to others.  
+Stop supporting them by not watching them and not talking about them to others.  
 STOP IT!! please. for your own sake.
 
 
